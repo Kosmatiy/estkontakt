@@ -1,0 +1,1 @@
+id bigint NOT NULL,\ncreated_at timestamp with time zone NOT NULL,\nuser_strapi_document_id text,\ncandidate_user_strapi_document_id text,\nstream_strapi_document_id text,\nteam_strapi_document_id text

@@ -1,0 +1,1 @@
+id bigint NOT NULL,\nreview text,\nmark bigint,\ncreated_at timestamp with time zone NOT NULL,\nreviewer_user_strapi_document_id text,\nreviewee_user_strapi_document_id text,\ntask_strapi_document_id text

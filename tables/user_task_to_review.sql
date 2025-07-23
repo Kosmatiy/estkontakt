@@ -1,0 +1,1 @@
+reviewer_user_strapi_document_id text,\ntask_strapi_document_id text,\nreviewee_user_strapi_document_id text,\nid bigint NOT NULL,\ncreated_at timestamp with time zone NOT NULL,\ncontrol text,\nnumber_in_batch smallint

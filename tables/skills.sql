@@ -1,0 +1,1 @@
+example text,\nstrapi_document_id text,\nmastery_level_strapi_document_id text,\nlecture_strapi_document_id text,\nid bigint NOT NULL,\ncreated_at timestamp with time zone NOT NULL,\nname text,\nmastery_criteria text

@@ -1,0 +1,1 @@
+name text,\nid bigint NOT NULL,\ndiscount_strapi_document_id text,\nstrapi_document_id text,\nend_datetime timestamp with time zone,\nstart_datetime timestamp with time zone,\nis_active boolean,\nusage_count smallint,\nusage_limit smallint,\ndescription text,\ncreated_at timestamp with time zone NOT NULL

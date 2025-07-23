@@ -1,0 +1,1 @@
+price double precision,\ndescription text,\nentity_type text,\nstream_strapi_document_id text,\nstrapi_document_id text,\nfull_price double precision,\nentity_strapi_document_id text,\ndiscount_percent double precision,\nid bigint NOT NULL,\ncreated_at timestamp with time zone NOT NULL,\nname text

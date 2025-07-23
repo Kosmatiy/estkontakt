@@ -1,0 +1,1 @@
+comment text,\ndata text,\nview_name text,\nphase text,\nentity text,\nrarity text,\nid integer NOT NULL,\nname text,\nhow_to_get text,\ndescription text,\nstrapi_document_id text,\ncreated_at timestamp with time zone,\nstream_strapi_document_id text

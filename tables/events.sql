@@ -1,0 +1,1 @@
+name text,\ndatetime_start timestamp with time zone,\ndatetime_end timestamp with time zone,\nid bigint NOT NULL,\ncreated_at timestamp with time zone NOT NULL,\nevent_type text,\ndescription text,\nsprint_strapi_document_id text,\nevent_status text,\nstrapi_document_id text,\nupdated_at timestamp with time zone,\nsprint_phase smallint

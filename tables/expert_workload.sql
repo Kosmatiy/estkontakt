@@ -1,0 +1,1 @@
+duel_workload double precision,\ncreated_at timestamp with time zone NOT NULL,\nid bigint NOT NULL,\nstrapi_document_id text,\ntask_workload double precision,\nexpert_strapi_document_id text,\nstream_strapi_document_id text

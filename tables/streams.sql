@@ -1,0 +1,1 @@
+description text,\ncreated_at timestamp without time zone NOT NULL,\nname character varying,\ndate_start timestamp without time zone,\nstrapi_document_id text,\nupdated_at timestamp with time zone,\ndate_end timestamp without time zone,\nid bigint NOT NULL

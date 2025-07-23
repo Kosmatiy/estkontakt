@@ -1,0 +1,1 @@
+created_at timestamp with time zone,\nsprint_strapi_document_id text,\nstrapi_document_id text,\ntext text,\nentity_strapi_document_id text,\nexpert_strapi_document_id text,\ntype text,\nid integer NOT NULL

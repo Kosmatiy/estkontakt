@@ -1,0 +1,1 @@
+weight double precision,\nis_failed boolean,\nis_forced boolean,\nhash text,\nfail_initiator text,\nid integer NOT NULL,\ncreated_at timestamp without time zone,\nduel_strapi_document_id text,\nuser_strapi_document_id text,\nrival_strapi_document_id text,\nis_extra boolean,\nis_repeat boolean,\nis_late boolean

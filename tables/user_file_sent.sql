@@ -1,0 +1,1 @@
+duel_answer_id integer,\nvideo_url text,\nupdated_at timestamp with time zone,\ncreated_at timestamp with time zone,\nuser_file_sent_id integer NOT NULL,\nstatus text,\npair_id integer,\nhash text,\nduel_strapi_document_id text

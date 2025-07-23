@@ -1,0 +1,1 @@
+team_color_rp text,\nupdated_at timestamp with time zone,\ncaptain_strapi_document_id text,\nstream_strapi_document_id text,\nstrapi_document_id text,\nflag_banner_url text,\nflag_color_hex text,\nfont_color text,\nname text,\ncreated_at timestamp without time zone NOT NULL,\nteam_id bigint NOT NULL

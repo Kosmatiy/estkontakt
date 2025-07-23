@@ -1,0 +1,1 @@
+strapi_document_id text,\nbrief_bbcode text,\ntitle_bbcode text,\nupdated_at timestamp with time zone,\nsprint_strapi_document_id text,\nvideo_id text,\nvideo_url text,\ndescription_bbcode text,\ncreated_at timestamp with time zone NOT NULL,\nlecture_id bigint NOT NULL,\nlecture_number bigint

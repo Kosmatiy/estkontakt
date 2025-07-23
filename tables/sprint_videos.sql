@@ -1,0 +1,1 @@
+id integer NOT NULL,\nname text,\nvideo_url text,\nnumber smallint,\nbrief text,\ndescription text,\nsprint_strapi_document_id text,\nstrapi_document_id text,\ncreated_at timestamp with time zone,\nvideo_id text

@@ -1,0 +1,1 @@
+reviewer_user_strapi_document_id text,\nreviewee_user_strapi_document_id text,\ntask_strapi_document_id text,\nmark bigint,\nnumber_in_batch smallint,\nis_valid boolean,\ncreated_at timestamp with time zone NOT NULL,\nid bigint NOT NULL

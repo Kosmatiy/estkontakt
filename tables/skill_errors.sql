@@ -1,0 +1,1 @@
+examples text,\ndescription text,\nname text,\nid integer NOT NULL,\nskill_strapi_document_id text,\ncreated_at timestamp with time zone,\nstrapi_document_id text,\nmastery_method text,\nconsequences text,\nreasons text

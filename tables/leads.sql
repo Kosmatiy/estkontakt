@@ -1,0 +1,1 @@
+surname text,\nemail text,\ntelegram_id bigint,\nstrapi_document_id text,\nsell_date timestamp with time zone,\nutm_source text,\nutm_content text,\nutm_campaign text,\nutm_term text,\nuser_strapi_document_id text,\nphone text,\nsupabase_id text NOT NULL,\ncreated_at timestamp without time zone,\nname text,\ntelegram_username text

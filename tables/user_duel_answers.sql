@@ -1,0 +1,1 @@
+duel_answer_id bigint NOT NULL,\nvideo_url_from_user text,\nrival_user_strapi_document_id text,\nduel_strapi_document_id text,\nhash text,\npair_id bigint,\nanswer_part smallint,\nstatus text,\nuser_strapi_document_id text,\ncomment text,\nvideo_url text,\ncreated_at timestamp with time zone NOT NULL

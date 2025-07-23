@@ -1,0 +1,1 @@
+description text,\nsprint_name text,\nsprint_number integer,\nsprint_type text,\nstrapi_document_id text,\ndate_end timestamp with time zone,\nupdated_at timestamp with time zone,\nstream_strapi_document_id text,\nsprint_id bigint NOT NULL,\ncreated_at timestamp without time zone NOT NULL,\ndate_start timestamp with time zone

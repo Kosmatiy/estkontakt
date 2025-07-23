@@ -1,0 +1,1 @@
+id bigint NOT NULL,\nname text,\nstrapi_document_id text,\ncreated_at timestamp with time zone NOT NULL,\nvalue double precision,\ndescription text,\nend_datetime timestamp with time zone,\nstart_datetime timestamp with time zone,\ndiscount_type text

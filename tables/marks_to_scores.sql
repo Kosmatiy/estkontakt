@@ -1,0 +1,1 @@
+reviewer_max_mark double precision,\neffective_from_sprint_number smallint,\nactivity_subtype text,\nactivity_type text,\nstrapi_document_id text,\nstream_strapi_document_id text,\nscore_maximum double precision,\nmark_weight double precision,\nreviewer_weight double precision,\nreviewer_type text,\ncreated_at timestamp with time zone NOT NULL,\nid bigint NOT NULL

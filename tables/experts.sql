@@ -1,0 +1,1 @@
+name text,\nstrapi_document_id text,\nstream_strapi_document_id text,\nteam_strapi_document_id text,\nphoto_url text,\nemail text,\ntelegram_username text,\nsurname text,\nsb_auth_string text,\ncreated_at timestamp without time zone NOT NULL,\nuser_id bigint NOT NULL,\ndismissed_at timestamp without time zone,\ntelegram_id bigint,\nis_authorized boolean

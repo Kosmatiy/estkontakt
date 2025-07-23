@@ -1,0 +1,1 @@
+id bigint NOT NULL,\ntest_strapi_document_id text,\nquestion_strapi_document_id text,\nscore bigint,\nattempt bigint,\nright_answer text,\nuser_answer text,\nuser_strapi_document_id text,\ncreated_at timestamp with time zone NOT NULL

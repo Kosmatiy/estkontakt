@@ -1,0 +1,1 @@
+weight double precision,\nuser_id bigint,\ncreated_at timestamp without time zone,\nname text,\nsurname text,\ntelegram_username text,\nemail text,\ndismissed_at timestamp without time zone,\ntelegram_id bigint,\nstrikes_limit integer,\nis_authorized boolean,\nsb_auth_string text,\nstrapi_document_id text,\nstream_strapi_document_id text,\nteam_strapi_document_id text
