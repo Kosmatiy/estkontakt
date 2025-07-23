@@ -1,0 +1,1 @@
+video_url text,\nvideo_id text,\nsprint_number integer,\nsprint_strapi_document_id text,\nupdated_at timestamp with time zone,\nstrapi_document_id text,\nlecture_number bigint,\nbrief_bbcode text,\ntitle_bbcode text,\ndescription_bbcode text,\ncreated_at timestamp with time zone,\nlecture_id bigint

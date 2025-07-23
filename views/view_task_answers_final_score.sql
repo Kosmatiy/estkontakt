@@ -1,0 +1,1 @@
+user_strapi_document_id text,\ntask_strapi_document_id text,\nfinal_score numeric

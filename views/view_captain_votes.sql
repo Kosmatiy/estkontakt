@@ -1,0 +1,1 @@
+team_strapi_document_id text,\nstream_strapi_document_id text,\ncandidate_user_strapi_document_id text,\nvote_count bigint

@@ -1,0 +1,1 @@
+avg_result_mark numeric,\nfinal_score numeric,\nscore_type text,\nhash text,\nduel_strapi_document_id text,\nuser_strapi_document_id text,\nskill2_strapi_document_id text,\navg_skill2_mark numeric,\nskill1_strapi_document_id text,\navg_skill1_mark numeric,\navg_attention_mark numeric,\navg_image_mark numeric

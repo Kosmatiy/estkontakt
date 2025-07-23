@@ -1,0 +1,1 @@
+user2_strapi_document_id text,\nduel_number text,\nhash text,\nuser1_strapi_document_id text,\nreviewer_user_strapi_document_id text,\nduel_strapi_document_id text,\ncreated_at timestamp with time zone,\nid bigint

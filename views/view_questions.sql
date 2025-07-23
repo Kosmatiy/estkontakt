@@ -1,0 +1,1 @@
+variant_a text,\nvariant_b text,\ntest_strapi_document_id text,\nstrapi_document_id text,\nupdated_at timestamp with time zone,\ncomment_d text,\nid bigint,\ncomment_c text,\ncomment_b text,\ncomment_a text,\nquestion text,\nvariant_right text,\nvariant_d text,\nvariant_c text,\ncreated_at timestamp with time zone

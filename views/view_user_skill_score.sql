@@ -1,0 +1,1 @@
+status_strapi_document_id text,\nuser_strapi_document_id text,\nstream_strapi_document_id text,\nskill_strapi_document_id text,\nskill_name text,\nsprint_strapi_document_id text,\nmark numeric,\nstatus text,\ncertification_datetime timestamp with time zone

@@ -1,0 +1,1 @@
+sprint_strapi_document_id text,\nreviewer_user_strapi_document_id text,\npending_pairs bigint

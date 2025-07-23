@@ -1,0 +1,1 @@
+sprint_strapi_document_id text,\nuser_strapi_document_id text,\nachieved_at timestamp with time zone,\nachievement_strapi_document_id text,\nentity_strapi_document_id text

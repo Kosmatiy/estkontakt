@@ -1,0 +1,1 @@
+comment text,\nhash text,\nresult_mark smallint,\nimage_mark smallint,\nattention_mark smallint,\nskill1_mark smallint,\nskill2_mark smallint,\nskill1_strapi_document_id text,\nskill2_strapi_document_id text,\nis_valid boolean,\nuser_strapi_document_id text,\nduel_strapi_document_id text,\nreviewer_user_strapi_document_id text,\ncreated_at timestamp with time zone,\nid bigint
