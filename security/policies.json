@@ -1,0 +1,104 @@
+[
+  {
+    "policy_name": "_db_private_service_role_delete",
+    "command_type": "d",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "_db_private_service_role_insert",
+    "command_type": "a",
+    "using_expression": null,
+    "with_check_expression": "true"
+  },
+  {
+    "policy_name": "_db_private_service_role_select",
+    "command_type": "r",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "_db_private_service_role_update",
+    "command_type": "w",
+    "using_expression": "true",
+    "with_check_expression": "true"
+  },
+  {
+    "policy_name": "faqs_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "lectures_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "no_delete",
+    "command_type": "d",
+    "using_expression": "false",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "no_insert",
+    "command_type": "a",
+    "using_expression": null,
+    "with_check_expression": "false"
+  },
+  {
+    "policy_name": "no_select",
+    "command_type": "r",
+    "using_expression": "false",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "no_update",
+    "command_type": "w",
+    "using_expression": "false",
+    "with_check_expression": "false"
+  },
+  {
+    "policy_name": "sprints_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "streams_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "strikes_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "tasks_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "teams_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "user_answers_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  },
+  {
+    "policy_name": "users_policy",
+    "command_type": "*",
+    "using_expression": "true",
+    "with_check_expression": null
+  }
+]
